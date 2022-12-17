@@ -9,6 +9,8 @@ Easy one stop shop for all Valheim mods on local server with reference to config
   - Player keeps all items on death
 - ValheimPlus
   - Whole game overhaul allowing configuration of many in game settings
+- HandyPortals
+  - Using map, go from any portal to any other portal
 
 ## Nice to have Client Side Mods
 - BetterUI
@@ -22,4 +24,7 @@ Easy one stop shop for all Valheim mods on local server with reference to config
   - Name chest to read name as tooltip
 - InstantMonsterDrop
   - No delay dropping monster loot
+- HandyPortals
+  - Using map, go from any portal to any other portal
+
   
