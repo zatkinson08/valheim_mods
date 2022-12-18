@@ -1,6 +1,10 @@
-# valheim_mods
+# Valheim Mods
 Easy one stop shop for all Valheim mods on local server with reference to config files.
 
+## Install
+- Extract Valheim Plus into game directory
+  - Valheim Plus version 0.9.9.11
+- Copy repo configs into configs & plugins into plugin dir
 
 ## Required Client Side Mods (Running on server)
 - BepInEx
